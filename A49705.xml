@@ -1,0 +1,774 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catechisme shorter then the short catechisme compiled principally by Mr. Ball out of which this (for the most part) was taken, or, The epitome and contraction of Mr. Balls short catechisme : also a spirituall song for the Lords Supper, or Communion, put into an ordinary tune ... together with two other hymns or psalms ... / by S.L., M.A. and F.C.C. Camb.</title>
+            <author>Langley, Samuel, d. 1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49705</idno>
+            <idno type="STC">Wing L58</idno>
+            <idno type="STC">ESTC R43336</idno>
+            <idno type="EEBO-CITATION">27214780</idno>
+            <idno type="OCLC">ocm 27214780</idno>
+            <idno type="VID">110040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49705)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1723:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catechisme shorter then the short catechisme compiled principally by Mr. Ball out of which this (for the most part) was taken, or, The epitome and contraction of Mr. Balls short catechisme : also a spirituall song for the Lords Supper, or Communion, put into an ordinary tune ... together with two other hymns or psalms ... / by S.L., M.A. and F.C.C. Camb.</title>
+                  <author>Langley, Samuel, d. 1694.</author>
+                  <author>Ball, John, 1585-1640. Short catechism.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A.M. for Tho. Underhill ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ball, John, 1585-1640. --  Short catechism.</term>
+               <term>Catechisms, English.</term>
+               <term>Puritans --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110040:1"/>
+            <p>A CATECHISME Shorter then the ſhort Cate<g ref="char:EOLhyphen"/>chiſme compiled principally by M<hi rend="sup">r</hi> 
+               <hi>Ball,</hi> out of which this (for the moſt part) was taken.</p>
+            <p>OR THE EPITOME and CONTRACTION of M<hi rend="sup">r</hi> 
+               <hi>Balls</hi> ſhort Catechiſme.</p>
+            <p>ALSO A Spirituall Song for the Lords Supper or Com<g ref="char:EOLhyphen"/>munion, put into an ordinary tune, that it may be ſung by com<g ref="char:EOLhyphen"/>mon people, for their ſpirituall quickning and edification in that Ordinance.</p>
+            <p>Together with two other Hymns or Pſalms, the firſt concerning <hi>Sub<g ref="char:EOLhyphen"/>miſſion,</hi> the ſecond the <hi>Lords Prayer.</hi>
+            </p>
+            <p>By <hi>S.L.</hi> M.A. and F. <hi>C.C.Camb.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>A.M.</hi> for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Wood-ſtreet. 1649.</p>
+         </div>
+      </front>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="preface">
+                  <pb facs="tcp:110040:2"/>
+                  <pb facs="tcp:110040:2"/>
+                  <head>A CATECHISME, Shorter then the ſhort Cate<g ref="char:EOLhyphen"/>chiſm compoſed principally by M<hi rend="sup">r</hi> 
+                     <hi>Ball,</hi> out of which this for the moſt part was taken.</head>
+                  <head type="sub">Intended chiefly for the uſe of weaker memories, or ſuch as cannot reade, being of the Congregation which meeteth ordinarily at <hi>Swet<g ref="char:EOLhyphen"/>tenham</hi> in <hi>Cheſhire.</hi>
+                  </head>
+                  <byline>By <hi>S.L.</hi> M.A. and F. <hi>C.C.Camb.</hi>
+                  </byline>
+                  <p>
+                     <seg rend="decorInit">T</seg>Hat which is endeavoured to be performed here, is <hi>1.</hi> To re<g ref="char:EOLhyphen"/>duce the unqueſtionable and principall truths of Chriſtia<g ref="char:EOLhyphen"/>nity into a leſſe compaſſe, that weak memo<g ref="char:EOLhyphen"/>ries may better retain them. <hi>2.</hi> To cut off many queſtions which are more difficult and leſſe neceſſary, and therefore not fitly to be ranckt amongst principles of Religion. <hi>3.</hi> To make every anſwer an entire propo<g ref="char:EOLhyphen"/>ſition
+<pb facs="tcp:110040:3"/>in it ſelf, without dependance upon the queſtion to make up the ſenſe of it: the want of this in this Catechiſm of M<hi rend="sup">r</hi> 
+                     <hi>Bals,</hi> experience teacheth, hath hindered young, weak and leſſe conſiderate learners from underſtanding the anſwers they have re<g ref="char:EOLhyphen"/>peated, as alſo from a certain fitting the right anſwer to a queſtion propounded <hi>4.</hi> To cull out the choiſeſt and moſt evident texts of Scripture to confirm every part of each anſwer, which may eaſily be learned by a<g ref="char:EOLhyphen"/>ny; multitude of proofs before confounding, and the ſtrength of many of them not eaſily appearing to ſuch capacities as ſuch a Ca<g ref="char:EOLhyphen"/>techiſm is intended for. <hi>5.</hi> Yet to retain, for the moſt part in the queſtions and an<g ref="char:EOLhyphen"/>ſwers, the very words of M<hi rend="sup">r</hi> 
+                     <hi>Balls</hi> Cate<g ref="char:EOLhyphen"/>chiſm; be cauſe it hath been ſo much uſed (not without exceeding apparent profit) both in families and publike Congregati<g ref="char:EOLhyphen"/>ons, that other words might be a means to puzzel ſome in learning this, who have for<g ref="char:EOLhyphen"/>merly taken pains in that. <hi>The God of knowledge and grace give a bleſſing to this poor yet ſincere endeavour, for his glory and his peoples good, of his moſt unworthy and meaneſt ſervant,</hi>
+                  </p>
+                  <closer>
+                     <signed>S. Langley.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="catechism">
+                  <pb n="1" facs="tcp:110040:3"/>
+                  <head>A Short CATECHISME,</head>
+                  <div n="1" type="section">
+                     <head>Section 1.</head>
+                     <p>Q. <hi>
+                           <seg rend="decorInit">W</seg>Hat ought to be the chief and continuall care of every one in this life?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Every ones chief and continuall care in this life, ſhould be<note n="a" place="margin">1 <hi>Corinth.</hi> 10.31.</note> to glorifie God and<note n="b" place="margin">
+                           <hi>Matth.</hi> 16.26.</note> ſave his ſoul,</p>
+                     <p>Q. <hi>Whence muſt we take direction to attain hereunto?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> We muſt take direction for the glorifying God and ſaving our own ſouls out of the word of God, <hi>Joh.</hi> 20.31.</p>
+                     <p>Q. <hi>What doth the word of God</hi> (called the Scripture) <hi>eſpecially teach us?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The Scripture teacheth us the ſa<g ref="char:EOLhyphen"/>ving knowledge of God through Jeſus Chriſt, <hi>Joh.</hi> 17.3.</p>
+                  </div>
+                  <div n="2" type="section">
+                     <pb n="2" facs="tcp:110040:4"/>
+                     <head>Section 2.</head>
+                     <p>Q. <hi>What is God?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> God is<note n="a" place="margin">
+                           <hi>Joh.</hi> 4.24.</note> a Spirit, having his<note n="b" place="margin">
+                           <hi>Exod.</hi> 3.14.</note> be<g ref="char:EOLhyphen"/>ing of himſelf,</p>
+                     <p>Q. <hi>How many Gods be there?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> There is only one God revealed, as<note n="c" place="margin">1 <hi>Corinth.</hi> 8.6.</note> Father,<note n="d" place="margin">
+                           <hi>Matth.</hi> 28.19.</note> Son, and<note n="e" place="margin">1 <hi>Joh.</hi> 5.7.</note> holy Ghoſt <hi>(called three perſons)</hi>
+                     </p>
+                     <p>Q. <hi>How may we conceive of God?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> We may conceive of God<note n="f" place="margin">
+                           <hi>Exod.</hi> 34.6, 7.</note> by his properties and<note n="g" place="margin">
+                           <hi>Pſal.</hi> 19.1.</note> by his works,</p>
+                  </div>
+                  <div n="3" type="section">
+                     <head>Section 3.</head>
+                     <p>Q <hi>What are the manifest or viſible works of God?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The viſible works of God are Creation and Providence.</p>
+                     <p>Q. <hi>What is Creation?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Creation is that whereby God made all things in ſix daies, <hi>Exod.</hi> 20.11.</p>
+                     <p>Q. <hi>What is Providence?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Providence is that whereby God doth preſerve and govern all things with all their actions, <hi>Pſal.</hi> 36.6. <hi>Matth.</hi> 10.29.</p>
+                     <pb n="3" facs="tcp:110040:4"/>
+                     <p>Q. <hi>What are the ſpecial creatures made, preſerved and governed by the Lord?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The ſpecial or principal creatures of God are Angels and Men, <hi>Col.</hi> 1.16.</p>
+                  </div>
+                  <div n="4" type="section">
+                     <head>Section 4.</head>
+                     <p>Q. <hi>What was the eſtate of man by crea<g ref="char:EOLhyphen"/>tion?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The eſtate wherein man was firſt created, was holy and happy, <hi>Eccl</hi> 7.29. <hi>Gen.</hi> 1.27, 28, 29.</p>
+                     <p>Q. <hi>What speciall commandment was given to man upon his creation?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The ſpeciall commandment which God gave man upon his creation was this, <hi>Of the tree of knowledge of good and evil thou ſhalt not eat, for in the day thou eateſt thereof thou ſhalt die the death,</hi> Gen. 2.17.</p>
+                     <p>Q. <hi>Did man continue in his good eſtate?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Man did not continue in his good eſtate, but wilfully fell from God through the enticement of the ſerpent, <hi>Gen.</hi> 3.1, 4, 5.</p>
+                     <p>Q. <hi>What was the ſin he did commit?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Man ſinned by eating the forbid<g ref="char:EOLhyphen"/>den fruit, <hi>Gen.</hi> 3.6.</p>
+                     <pb n="4" facs="tcp:110040:5"/>
+                     <p>Q. <hi>What is the ſtate of all men by reaſon of Adams fall?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> By this ſin of <hi>Adam,</hi> all men (be<g ref="char:EOLhyphen"/>ing in his loins) are<note n="a" place="margin">
+                           <hi>Epheſ.</hi> 2.1, 2.</note> dead in ſinne,<note n="b" place="margin">
+                           <hi>Rom.</hi> 6.23.</note> bondſlaves to Satan, and<note n="c" place="margin">
+                           <hi>Gal.</hi> 3.10. <hi>Rom.</hi> 5.12.</note> liable to all miſery,</p>
+                  </div>
+                  <div n="5" type="section">
+                     <head>Section 5.</head>
+                     <p>Q. <hi>By what means may we eſcape this miſery and recover happineſſe?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> We may eſcape this miſery and recover happineſſe only by Jeſus Chriſt, <hi>Act.</hi> 4.12.</p>
+                     <p>Q. <hi>What is Jeſus Chriſt?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Jeſus Chriſt is the<note n="d" place="margin">
+                           <hi>Iſa.</hi> 9.6.</note> eternall Son of God, who in<note n="e" place="margin">
+                           <hi>Gal.</hi> 4.4, 5.</note> time became man, to<note n="f" place="margin">1 <hi>Tim.</hi> 2.5.</note> reconcile God and man,</p>
+                     <p>Q. <hi>How did Christ reconcile God and man?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Chriſt became a Mediator to re<g ref="char:EOLhyphen"/>concile God and man, by his<note n="g" place="margin">
+                           <hi>Matth.</hi> 3.15.</note> fulfilling the law, and by his<note n="h" place="margin">
+                           <hi>Heb.</hi> 9.15. <hi>Rom.</hi> 5.10, 18, 19.</note> ſufferings <hi>(or by his obedience unto death)</hi>
+                     </p>
+                  </div>
+                  <div n="6" type="section">
+                     <pb n="5" facs="tcp:110040:5"/>
+                     <head>Section 6.</head>
+                     <p>Q. <hi>Did Chriſt alwaies abide under the power and dominion of death?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Chriſt did not abide under the power of death; but the<note n="a" place="margin">1 <hi>Cor.</hi> 15.3, 4.</note> third day he roſe again, aſcended into heaven, and<note n="b" place="margin">
+                           <hi>Mar.</hi> 16.19.</note> now fitteth at the right hand of his Father,<note n="c" place="margin">
+                           <hi>Heb.</hi> 7.25.</note> making interceſſion for his people,</p>
+                     <p>Q. <hi>What are the ſpeciall parts of Chriſts Mediatorſhip?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The ſpeciall parts of Chriſts Me<g ref="char:EOLhyphen"/>diatorſhip are theſe three, to be a<note n="d" place="margin">
+                           <hi>Act.</hi> 3.22.</note> Prophet,<note n="e" place="margin">
+                           <hi>Heb.</hi> 2.17.</note> Prieſt, and<note n="f" place="margin">
+                           <hi>Pſal.</hi> 110.1.</note> King,</p>
+                     <p>Q. <hi>What benefit doe we receive by the death and reſurrection of Chriſt?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> By the death and reſurrection of Chriſt, we are<note n="g" place="margin">
+                           <hi>Gal.</hi> 3.13. <hi>Col.</hi> 1.14. <hi>Tit.</hi> 2.14.</note> redeemed from the guilt, puniſhment and power of ſin, and<note n="h" place="margin">1 <hi>Cor.</hi> 15.13.</note> ſhall be raiſed up at the laſt day,</p>
+                  </div>
+                  <div n="7" type="section">
+                     <head>Section 7.</head>
+                     <p>Q. <hi>How are we made partakers of Chriſt with all his benefits?</hi>
+                     </p>
+                     <pb n="6" facs="tcp:110040:6"/>
+                     <p>
+                        <hi>A.</hi> We are made partakers of Chriſt with all his benefits by faith alone, <hi>Joh.</hi> 3.16. <hi>Rom.</hi> 4.3, 4, 5. <hi>Rom.</hi> 5.1, 2.</p>
+                     <p>Q. <hi>What is faith?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Faith is a reſting upon Chriſt in his way for ſalvation, <hi>Joh.</hi> 1.12.</p>
+                     <p>Q. <hi>How is faith ordinarily wrought and increaſed in us?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Faith is wrought and increaſed in the due uſe of the<note n="a" place="margin">
+                           <hi>Rom.</hi> 10.14, 17.</note> word,<note n="b" place="margin">
+                           <hi>Luk</hi> 17.5.</note> praier and<note n="c" place="margin">
+                           <hi>Rom.</hi> 4.11. 1 <hi>Cor.</hi> 11.25.</note> Sacraments, the<note n="d" place="margin">
+                           <hi>Joh.</hi> 14.16, 17.</note> Spirit of God working it in us thereby,</p>
+                     <p>Q. <hi>How doth the word work faith in us?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The word is a means of working faith, by<note n="e" place="margin">
+                           <hi>Rom.</hi> 7.7.</note> ſhewing us our miſery, and<note n="f" place="margin">
+                           <hi>Gal.</hi> 4.4, 5.</note> the true means of our recovery,<note n="g" place="margin">
+                           <hi>Matth.</hi> 11.28. <hi>Iſa.</hi> 61.1, 2, 3. <hi>Revel.</hi> 22.17.</note> en<g ref="char:EOLhyphen"/>couraging us, being humbled, to receive the promiſes of the Goſpel,</p>
+                  </div>
+                  <div n="8" type="section">
+                     <head>Section 8.</head>
+                     <p>Q. <hi>To whom muſt we pray?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> We muſt pray to God alone, in the Name of Chriſt, <hi>Joh.</hi> 16.23.</p>
+                     <pb n="7" facs="tcp:110040:6"/>
+                     <p>Q. <hi>What rule of direction is there ac<g ref="char:EOLhyphen"/>cording to which we ought to frame our praiers?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The<note n="a" place="margin">1 <hi>Joh.</hi> 5.14.</note> generall direction for prai<g ref="char:EOLhyphen"/>er is the Word of God, the more<note n="b" place="margin">
+                           <hi>Matth</hi> 6.9.</note> ſpe<g ref="char:EOLhyphen"/>ciall is the Lords praier,</p>
+                     <p>Q. <hi>Rehearſe the Lords praier?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Our Father, <hi>&amp;c.</hi> See <hi>Matth.</hi> 6.9, 10, 11, 12, 13.</p>
+                     <p>Q. <hi>Who can and may pray with hope to ſpeed?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> They only can pray aright, with hope to ſpeed, who depart from ini<g ref="char:EOLhyphen"/>quity, <hi>Pſal.</hi> 66.18.</p>
+                  </div>
+                  <div n="9" type="section">
+                     <head>Section 9.</head>
+                     <p>Q. <hi>What is a Sacrament?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> A Sacrament <hi>(in the uſe of it)</hi> is a ſeal of the Covenant of grace, <hi>Rom.</hi> 4.11.</p>
+                     <p>Q. <hi>How many Sacraments have we?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> In the new Teſtament we have two Sacraments, Baptiſme and the Lords Supper, 1 <hi>Joh.</hi> 5.8.</p>
+                     <p>Q. <hi>What is Baptiſme?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Baptiſme is a Sacrament of our<note n="a" place="margin">
+                           <hi>Gal.</hi> 3.37.</note> ingraffing into Chriſt, communion
+<pb n="8" facs="tcp:110040:7"/>with him,<note n="b" place="margin">
+                           <hi>Matth.</hi> 28.19.</note> and entrance into the Church,</p>
+                     <p>Q. <hi>To what condition is the party baptized bound?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The party baptized, by baptiſme is obliged to <note n="c" place="margin">
+                           <hi>Act.</hi> 8.37.</note> beleeve in Chriſt, and<note n="d" place="margin">
+                           <hi>Mat.</hi> 3.8.</note> forſake his ſin,</p>
+                  </div>
+                  <div n="10" type="section">
+                     <head>Section 10.</head>
+                     <p>Q. <hi>What is the Lords Supper?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> The Lords Supper is a Sacrament of our continuance and growth in Chriſt, 1 <hi>Cor.</hi> 10.16.</p>
+                     <p>Q. <hi>What doe the bread and wine beto<g ref="char:EOLhyphen"/>ken in this Sacrament?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> In the Lords Supper, the bread betokens the body of Chriſt broken for us, and the wine betokens his bloud, 1 <hi>Cor.</hi> 10.16. 1 <hi>Cor.</hi> 11.24, 25.</p>
+                     <p>Q. <hi>For what end and uſe ought we to receive this Sacrament?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> We are to receive the Lords Sup<g ref="char:EOLhyphen"/>per for the<note n="a" place="margin">1 <hi>Cor.</hi> 11.34, 25.</note> remembrance of Chriſts death, wherein we have<note n="b" place="margin">1 <hi>Cor.</hi> 10.16.</note> communion with Chriſt and<note n="c" place="margin">1 <hi>Cor.</hi> 5.7, 8. 1 <hi>Cor.</hi> 10.16, 17.</note> the Saints,</p>
+                     <p>Q. <hi>What is the danger of unworthy re<g ref="char:EOLhyphen"/>ceiving?</hi>
+                     </p>
+                     <pb n="9" facs="tcp:110040:7"/>
+                     <p>
+                        <hi>A.</hi> Unworthy receivers of the Lords Supper are guilty of the body and bloud of the Lord, and doe eat and drink judgement to themſelves, 1 <hi>Cor.</hi> 11.27, 29.</p>
+                     <p>Q. <hi>What graces are required for a worthy receiving?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> A worthy receiver muſt have, and exerciſe in receiving, theſe five graces,<note n="d" place="margin">
+                           <hi>Exod.</hi> 12.26, 27.</note> Knowledge,<note n="e" place="margin">
+                           <hi>Matth.</hi> 11.28. <hi>Revel.</hi> 22.17.</note> Deſire,<note n="f" place="margin">1 <hi>Cor.</hi> 10.21, 22. <hi>Matth.</hi> 3.8, 11.</note> Repentance,<note n="g" place="margin">
+                           <hi>Heb.</hi> 4.2. 1 <hi>Cor.</hi> 11.24, 25.</note> Faith and<note n="h" place="margin">1 <hi>Cor.</hi> 11.18, 22. <hi>Mark</hi> 11.25.</note> Love,</p>
+                  </div>
+                  <div n="11" type="section">
+                     <head>Section 11.</head>
+                     <p>Q. <hi>Can faith being wrought in us be fruitleſſe and unprofitable?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> Faith being wrought in us, can<g ref="char:EOLhyphen"/>not be fruitleſſe, but will work<note n="a" place="margin">
+                           <hi>Gal.</hi> 5.6.</note> by love, making us<note n="b" place="margin">
+                           <hi>Heb.</hi> 11. <hi>James</hi> 2.17.</note> obedient to all Gods Commandments,</p>
+                     <p>Q. <hi>Rehearſe the ten Commandments.</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> I am the Lord, <hi>&amp;c.</hi> See <hi>Exod.</hi> 20, from <hi>verſe</hi> 1. to 18.</p>
+                  </div>
+                  <div n="12" type="section">
+                     <pb n="10" facs="tcp:110040:8"/>
+                     <head>Section 12.</head>
+                     <p>Q. <hi>What ſhall be the end of all men af<g ref="char:EOLhyphen"/>ter this life?</hi>
+                     </p>
+                     <p>
+                        <hi>A.</hi> After this life, in<note n="a" place="margin">
+                           <hi>Luke</hi> 23.43.</note> part at death, and<note n="b" place="margin">2 <hi>Theſſ.</hi> 1.7, 8, 9, 10.</note> fully at the generall reſurrection and judgement, the<note place="margin">
+                           <hi>Matthew</hi> 25.46.</note> wicked ſhall goe into everlaſting puniſhment, but the righteous into eternall life,</p>
+                  </div>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:110040:8"/>
+                  <head>A SPIRITVALL SONG OR AN AFFECTIONAT HYMNE for the uſe of Chriſtians in the Celebration of the COMMUNION OR Lords Supper.</head>
+                  <byline>By <hi>S.L.</hi> M.A. and F. <hi>C.C. Camb.</hi>
+                  </byline>
+                  <q>
+                     <p>And when they had ſung an hymne (viz. <hi>Chriſt with his Diſciples at the Lords Supper, af<g ref="char:EOLhyphen"/>ter the Paſſeover</hi>) they went out,</p>
+                     <bibl>Matth. 26.30. Mark. 14.26.</bibl>
+                  </q>
+                  <q>
+                     <p>Let the Word of Chriſt dwell in you richly, in all wiſdom, teaching and admoniſhing one ano<g ref="char:EOLhyphen"/>ther, in Pſalmes and Hymnes and ſpirituall ſongs, ſinging with grace in your hearts to the Lord. And whatſoever you doe in word or deed, doe all in the Name of the Lord Jeſus, giving thanks to God and the Father by him,</p>
+                     <bibl>Coloſ. 3.16, 17.</bibl>
+                  </q>
+                  <p>
+                     <hi>LONDON,</hi> Printed by <hi>A.M.</hi> for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill</hi> at the Bible in Woodſtreet, 1649.</p>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:110040:9"/>
+                  <p>THe deſign aimed at in the compoſing o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this Song, is to affect the ſoul with mel<g ref="char:EOLhyphen"/>ting joies and thankfull mournings accord<g ref="char:EOLhyphen"/>ing to the nature of the Lords Supper. It is made publique to ſave the labour of often tranſcribing it for the benefit of theſe for whoſe uſe it was particularly at firſt inten<g ref="char:EOLhyphen"/>ded. Beſides <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t is hoped other ſincere Chri<g ref="char:EOLhyphen"/>ſtians who may ſee it, if they make uſe there<g ref="char:EOLhyphen"/>of, may have cauſe to glorifie God in this weak, yet well-meant labour of the Compe<g ref="char:EOLhyphen"/>ſer thereof,</p>
+                  <closer>
+                     <signed>S. LANGLEY,</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div type="hymn">
+                  <pb n="13" facs="tcp:110040:9"/>
+                  <head>AN HYMNE OR Spirituall Song for the Communion of Saints in the Lords Supper.</head>
+                  <lg>
+                     <l>
+                        <seg rend="decorInit">G</seg>Reat God! who mad'ſt &amp; ſaved'ſt the world,</l>
+                     <l>Our ſouls doe bleſſe thy Name:</l>
+                     <l>Thy goodnes fils our hearts &amp; mouths</l>
+                     <l>Therefore we praiſe the ſame.</l>
+                     <l>When we in <hi>Adams</hi> fall were <hi>dead,</hi>
+                     </l>
+                     <l>Then did thy Mercy ſpeak,</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hoſe words of Life, <hi>The Womans ſeed</hi>
+                     </l>
+                     <l>
+                        <hi>The Serpents Head ſhall break.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>The lightſome Beams of freeſt grace,</l>
+                     <l>To ſhine did now begin,</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n ſtubborn Man; who ſought not thee,</l>
+                     <l>But pleaded for his ſin.</l>
+                     <l>With <hi>bloud</hi> of Bulls and other Beaſts</l>
+                     <l>Thy people firſt did ſee</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rit in <hi>red</hi> Letters, darkly yet,</l>
+                     <l>How they redeem'd ſhould be.</l>
+                     <pb n="14" facs="tcp:110040:10"/>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> But when <hi>the fulneſſe of that Time</hi>
+                     </l>
+                     <l>Which thou decreed'ſt was come;</l>
+                     <l>This Myſtery more plain was made</l>
+                     <l>By ſending of thy <hi>Son.</hi>
+                     </l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> Thine <hi>only Son,</hi> Eternall God,</l>
+                     <l>Vail'd in our Nature came</l>
+                     <l>Into this world through <hi>Virgins</hi> womb</l>
+                     <l>To take away our ſhame.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="7"/> Dear JESUS, thou waſt circumcis'de;</l>
+                     <l>To circumciſe our Hearts:</l>
+                     <l>Baptized too; that thou might'ſt waſh</l>
+                     <l>And cleanſe our inward parts.</l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="8"/> Thoſe golden Rules, high Heavens Laws</l>
+                     <l>Great Maſter! thou did'ſt teach;</l>
+                     <l>And ſecrets of the <hi>Goſpel</hi> rare</l>
+                     <l>In word and deeds did'ſt preach.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="9"/> With humble hearts we thee adore,</l>
+                     <l>And all thy Precepts take:</l>
+                     <l>Begging thy ſtrength, that ſo we may</l>
+                     <l>None of thy ſtatutes break.</l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="10"/> Our thought-full ſouls, Lord! follow the</l>
+                     <l>Unto thy Garden-ſweat:</l>
+                     <l>Thy ſcourgings, piercings, mocks we doe</l>
+                     <l>With joyfull grief repeat.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="11"/> Thy prec'ous <hi>Body</hi> on the <hi>Croſſe,</hi>
+                     </l>
+                     <pb n="15" facs="tcp:110040:10"/>
+                     <l>
+                        <hi>Nail'd</hi> by our ſins we ſee:</l>
+                     <l>We hear thee cry, <hi>My God! My God!</hi>
+                     </l>
+                     <l>
+                        <hi>Haſt thou forſaken me?</hi>
+                     </l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> Thy <hi>Bloud,</hi> ſweet JESUS, thou haſt <hi>ſhed</hi>
+                     </l>
+                     <l>For us who guilty were</l>
+                     <l>Of ſpilling it: At this thy <hi>Board</hi>
+                     </l>
+                     <l>Theſe things to us appear.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> Our hearts are hard, yet doe they break</l>
+                     <l>And mourn to ſee thee bleed:</l>
+                     <l>As <hi>Peter</hi> ſaid) Wee'l die with thee,</l>
+                     <l>Our ſins their bloud ſhall ſheed.</l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> Our ſouls are fill'd with thy rich grace,</l>
+                     <l>Together with our ſhame:</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s our ſins ſhew thy <hi>Love</hi> more great,</l>
+                     <l>So doth thy Love our blame.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="5"/> We look on CHRIST, and grieve that we,</l>
+                     <l>Our LOVE have crucifi'de:</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>et <hi>weeping joy,</hi> thankfull that he</l>
+                     <l>Would <hi>Death</hi> for us abide.</l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="6"/> This <hi>Teſtament</hi> which thou haſt left</l>
+                     <l>Here <hi>ſealed</hi> with thy <hi>Bloud,</hi>
+                     </l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ORD, we embrace, and like the Terms</l>
+                     <l>On which thou'lt make it good.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="7"/> We hate thoſe <hi>curſed pins</hi> which <hi>pierct</hi>
+                     </l>
+                     <l>Thy <hi>Feet</hi> with both thy <hi>Hands:</hi>
+                     </l>
+                     <pb n="16" facs="tcp:110040:11"/>
+                     <l>We ſin abhorre, ſeeing that it</l>
+                     <l>Of thy <hi>Death guilty</hi> ſtands.</l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="18"/> Our <hi>Brethren</hi> we will <hi>love</hi> in thee</l>
+                     <l>Who out of <hi>love</hi> didſt <hi>die:</hi>
+                     </l>
+                     <l>Nor Grudges 'gainſt our Neighbour ſhall</l>
+                     <l>Within our Boſoms lie.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="19"/> But ſtill, <hi>Dear</hi> LORD, in all we ſay,</l>
+                     <l>We wholly doe depend,</l>
+                     <l>Upon the <hi>fulneſſe</hi> of that Grace,</l>
+                     <l>Thou haſt and wilt us ſend.</l>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="20"/> Oh! praiſe the LORD, ye Angels all</l>
+                     <l>Who in Heav'ns Quier ſing</l>
+                     <l>All Creatures pay your <hi>homage thanks</hi>
+                     </l>
+                     <l>To <hi>Ranſomd Zions</hi> KING.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <milestone type="tcpmilestone" unit="unspecified" n="21"/> Our <hi>tongues</hi> and <hi>lives</hi> ſhall gladly ſpeak</l>
+                     <l>The <hi>praiſes</hi> of the LORD;</l>
+                     <l>
+                        <hi>All fleſh to praiſe his holy Name</hi>
+                     </l>
+                     <l>For ever ſhall accord.</l>
+                  </lg>
+                  <p>To fill up the remaining vacant pages, theſe t<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> following Hymns are added.</p>
+                  <div type="hymn">
+                     <pb n="17" facs="tcp:110040:11"/>
+                     <head>Submiſsion.</head>
+                     <l>VVHat mean'ſt thou wandring Heart to fly</l>
+                     <l>From Heavens order pettiſhly?</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tay trembling ſoul, and pawſe a while,</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Fathers frowns lies vail'd a ſmile.</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aſt thou not often ſaid, thy God</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uch wiſer is then thou? his rod</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>he enſign of his carefull grace?</l>
+                     <l>Wrangle not then in any caſe.</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> that thy wiſh were granted ſtill,</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd thou had'ſt ever had thy will;</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>peak in experience: Do'ſt not know</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uine hath ſeaz'd thee long ago?</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> this croſſe-way, then hope, beleeve;</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hy God is plotting to relieve</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd help thee though thou ſeeſt not how;</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>dore the more, and to him bow.</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> thy diſtemper thou doſt truſt</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hy Doctor, that he's skil'd and juſt,</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd his preſcribed loathſome draught</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>inking ſup'ſt off, though yet untaught</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nd ignorant what ſimples be</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>gredients of it, or how he</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>is hidden learned plot doth lay</l>
+                     <l>
+                        <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o take thy ſickneſs's cauſe a way.</l>
+                     <pb n="18" facs="tcp:110040:12"/>
+                     <l>Oh! bluſh for ſhame then that thou haſt</l>
+                     <l>Thy makers Love and skill deba'ſt,</l>
+                     <l>Beneath a mortall's. Silly ſoul</l>
+                     <l>Learn theſe Repinings to controul.</l>
+                     <l>Doe not forget, thou haſt reſign'd</l>
+                     <l>Thy ſelf unto thy Makers minde;</l>
+                     <l>And dar'ſt ſuch ſacraledge commit</l>
+                     <l>Thy deed ſurrendred now to quit?</l>
+                     <l>Think whither ſave to him canſt run,</l>
+                     <l>And not for certain be undone?</l>
+                     <l>Is not the world all ſea? What land</l>
+                     <l>Canſt finde where one may ſafely ſtand?</l>
+                     <l>To th' Ark again, fly with the Dove,</l>
+                     <l>Where only is thy Reſt, thy love.</l>
+                     <l>Hope not the ſhip of thy ſelf will</l>
+                     <l>Undrown'd can ſave thee; if't fulfill</l>
+                     <l>The ſame, thou run'ſt another way</l>
+                     <l>Then God hath ſent thee; he will lay</l>
+                     <l>Thy moving grave and living Tomb</l>
+                     <l>In <hi>Jonahs</hi> Whales vaſt roomy womb.</l>
+                     <l>God may deſtroy thee: True; and ſo</l>
+                     <l>Cannot he, if thou from him go?</l>
+                     <l>Return, Return, poor ſoul, for he</l>
+                     <l>Abounds in kindeſt courteſie;</l>
+                     <l>Witneſſe the wounds thy deareſt dear</l>
+                     <l>In glory, glories ſtill to bear;</l>
+                     <l>Where <hi>Didymus</hi> might feel his love,</l>
+                     <l>His paſſions and compaſſions prove.</l>
+                     <pb n="19" facs="tcp:110040:12"/>
+                     <l>Sweet Lord, doe thou me wholly hide</l>
+                     <l>In thoſe holes of the Rock, thy ſide!</l>
+                     <l>Where lying cloſe I ſhall not fear</l>
+                     <l>When all thy judgements do appear.</l>
+                     <l>And ſtill, my ſoul, conſider if</l>
+                     <l>Thy Sav'our was a man of grief;</l>
+                     <l>Then grudge not that thy paſſage is</l>
+                     <l>Chequr'd with ſorrows like to his.</l>
+                  </div>
+                  <div type="prayer">
+                     <head>The Lords Prayer.</head>
+                     <lg>
+                        <l>OUr Father, who in Heav'n doſt ſit,</l>
+                        <l>Which Heaven is, 'cauſe thou in it:</l>
+                        <l>Thy Name be hallow'd! let each voice</l>
+                        <l>And raiſed heart in thee rejoice!</l>
+                        <l>Thy Kindome come!</l>
+                        <l>Thy will be done!</l>
+                        <l>By us below</l>
+                        <l>As Angels doe,</l>
+                        <l>Who winged wait above, that they</l>
+                        <l>Thy nod may watch, and ſo obey!</l>
+                     </lg>
+                     <lg>
+                        <l>Give us this day the bread we need!</l>
+                        <l>Thy bleſſing only can us feed.</l>
+                        <l>Forgive our Treſpaſſes as we</l>
+                        <l>Forgive them who our Debtors be!</l>
+                        <pb n="20" facs="tcp:110040:13"/>
+                        <l>Lead us not on</l>
+                        <l>Temptation!</l>
+                        <l>But from all ill</l>
+                        <l>Lord ſave us ſtill!</l>
+                        <l>For Kingdome, Power, Glory, all</l>
+                        <l>Be thine now and for ever ſhall.</l>
+                     </lg>
+                     <closer>Amen.</closer>
+                     <pb facs="tcp:110040:13"/>
+                  </div>
+               </div>
+            </body>
+         </text>
+         <trailer>FINIS.</trailer>
+      </group>
+   </text>
+</TEI>
